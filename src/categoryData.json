@@ -1,0 +1,20 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          { "id": "101", "name": "Security Overview", "content": "Overview of security..." },
+          { "id": "102", "name": "Compliance Status", "content": "Compliance information..." }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Cloud Inventory",
+        "widgets": [
+          { "id": "201", "name": "Resource Summary", "content": "Summary of cloud resources..." }
+        ]
+      }
+    ]
+  }
+  

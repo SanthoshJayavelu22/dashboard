@@ -1,0 +1,21 @@
+{
+    "widgets": [
+      {
+        "id": "1",
+        "name": "Widget 1",
+        "content": "Widget 1 Content..."
+      
+      },
+      {
+        "id": "2",
+         "name": "Widget 2",
+        "content": "Widget 2 Content..."
+      },
+      {
+        "id": "3",
+        "name": "Widget 3",
+        "content": "Widget 3 Content..."
+      }
+    ]
+  }
+  
